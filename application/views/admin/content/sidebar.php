@@ -10,6 +10,7 @@
 	  <li class="header">
           <h4>SIDOKU</h4>
           <p>Sistem Dokumentasi Keuangan</p>
+	  <p><a href="<?php echo base_url('assets/uploads/')?>Usermanual.pdf">User Manual</a></p>
         </li>
         <li class="header">MAIN NAVIGATION</li>
         <li class="">
